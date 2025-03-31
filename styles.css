@@ -17,6 +17,25 @@ body {
   font-family: "Overpass", sans-serif;
 }
 
+main {
+  position: relative;
+  background-color: hsl(213, 19%, 18%);
+  height: 15rem;
+  width: 35rem;
+  overflow: hidden;
+}
+
+.rating-state, .final-state {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .final-state {
   visibility: hidden;
 }
