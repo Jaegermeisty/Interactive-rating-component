@@ -20,9 +20,10 @@ body {
 main {
   position: relative;
   background-color: hsl(213, 19%, 18%);
-  height: 15rem;
-  width: 35rem;
+  height: 25rem;
+  width: 25rem;
   overflow: hidden;
+  border-radius: 2rem;
 }
 
 .rating-state, .final-state {
@@ -61,4 +62,5 @@ main {
 .rating-state-desc {
   color: hsl(217, 12%, 63%);
   margin: 0.3rem 0 0.7rem 1.5rem;
+  font-size: 0.9rem;
 }
