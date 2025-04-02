@@ -39,3 +39,13 @@ main {
 .final-state {
   visibility: hidden;
 }
+
+.star-div {
+  background-color: hsl(214, 19%, 26%);
+  margin: 1.5rem;
+  width: max-content;
+  padding: 0.7rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center; 
+}
