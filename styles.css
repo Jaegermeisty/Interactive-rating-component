@@ -143,3 +143,16 @@ main {
 .the-rating {
   color: hsl(25, 97%, 53%);
 }
+
+.thank-you-text {
+  font-size: 1.8rem;
+  color: white;
+}
+
+.thank-you-desc {
+  text-align: center;
+  margin-top: 0.6rem;
+  color: hsl(217, 12%, 63%);
+  font-size: 0.9rem;
+  line-height: 1.4rem;
+}
