@@ -20,8 +20,8 @@ body {
 main {
   position: relative;
   background-color: hsl(213, 19%, 18%);
-  height: 25rem;
-  width: 25rem;
+  height: 24rem;
+  width: 24rem;
   overflow: hidden;
   border-radius: 2rem;
 }
