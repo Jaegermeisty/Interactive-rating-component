@@ -38,12 +38,8 @@ main {
   padding: 0 8%;
 }
 
-.rating-state {
-  visibility: hidden;
-}
-
 .final-state {
-  visibility: visible;
+  visibility: hidden;
   align-items: center;
 }
 
