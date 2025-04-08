@@ -82,6 +82,22 @@ main {
   transition: all 0.3s ease;
 }
 
+.rating-option:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
+.rating-option:hover span {
+  color: hsl(213, 19%, 18%);
+}
+
+.rating-option input:checked + span {
+  color: hsl(213, 19%, 18%); 
+}
+
+.rating-option:has(input:checked) {
+  background-color: white;
+}
+
 .rating-option span {
   color: hsl(217, 12%, 63%);
   font-weight: 700;
