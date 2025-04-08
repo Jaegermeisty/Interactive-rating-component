@@ -132,3 +132,14 @@ main {
 .submit-btn:hover {
   background-color: white;
 }
+
+.the-rating-div {
+  background-color: hsl(214, 19%, 26%);
+  padding: 0.4rem 1rem;
+  border-radius: 2rem;
+  margin: 2rem;
+}
+
+.the-rating {
+  color: hsl(25, 97%, 53%);
+}
