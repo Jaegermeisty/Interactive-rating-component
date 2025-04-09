@@ -1,6 +1,12 @@
 const submitButton = document.querySelector('.submit-btn');
 const ratingText = document.querySelector('.the-rating');
 
+window.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('input[name="rating"]').forEach(radio => {
+    radio.checked = false;
+  });
+});
+
 submitButton.addEventListener('click', () => {
   const selectedRating = document.querySelector('input[name="rating"]:checked');
 
