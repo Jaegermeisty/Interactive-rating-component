@@ -65,13 +65,11 @@ if (!selectedRating) {
 ## Continued Development
 
 Areas to explore next:
-1. **Accessibility**  
-   Add ARIA attributes and keyboard navigation.
-2. **Animations**  
+1. **Animations**  
    CSS transitions for state changes.
-3. **Persistent State**  
+2. **Persistent State**  
    Save ratings with `localStorage`.
-4. **Inline Error Messaging**  
+3. **Inline Error Messaging**  
    Replace alerts with DOM-based warnings.
 
 ---
