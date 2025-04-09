@@ -4,8 +4,7 @@
 
 A responsive rating interface where users select and submit a score, receiving dynamic feedback with their chosen rating.
 
-![Desktop Preview](./design/desktop-preview.jpg)  
-*Replace with your own preview image*
+![Desktop Preview](./images/Screenshot%202025-04-09%20at%2019.48.35.png)  
 
 ## Table of Contents
 
@@ -31,7 +30,6 @@ A responsive rating interface where users select and submit a score, receiving d
   Layout and centering.
 - **JavaScript**  
   DOM manipulation and event handling.
-- **Mobile-First Workflow**
 
 ## What I Learned
 
