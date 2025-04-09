@@ -39,7 +39,7 @@ main {
 }
 
 .final-state {
-  visibility: hidden;
+  display: none;
   align-items: center;
 }
 
