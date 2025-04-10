@@ -19,7 +19,7 @@ body {
 
 main {
   position: relative;
-  background-color: hsl(213, 19%, 18%);
+  background: linear-gradient(to bottom, #222933, #181F27);
   height: 24rem;
   width: 24rem;
   overflow: hidden;
